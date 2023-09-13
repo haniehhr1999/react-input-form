@@ -1,0 +1,1 @@
+### this is simple form in react , you can set random password
